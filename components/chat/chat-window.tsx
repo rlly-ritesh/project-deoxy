@@ -118,7 +118,7 @@ export function ChatWindow({ prefs }: { prefs: Prefs }) {
     >
       <header className="flex items-center justify-between p-4 border-b" style={{ borderColor: "var(--border-c)" }}>
         <h1 className={`text-balance font-bold ${prefs.largeText ? "text-2xl" : "text-xl"}`}>
-          Project Deoxys — Dyslexia-Friendly AI Chat
+          Deoxy AI
         </h1>
         <span className="text-xs opacity-80">Font: OpenDyslexic</span>
       </header>

@@ -39,7 +39,7 @@ export default function HomePage() {
       <main className="mx-auto max-w-3xl p-4 md:p-6 flex flex-col gap-4">
         <header className="flex items-center justify-between">
           <h1 className={`text-balance font-bold ${prefs.largeText ? "text-2xl" : "text-xl"}`}>
-            Project Deoxys — Dyslexia‑Friendly Chat
+            Deoxy AI  — Dyslexia‑Friendly ChatBot
           </h1>
           <nav className="flex items-center gap-3 text-sm">
             <a className="underline opacity-90 hover:opacity-100" href="/login">
