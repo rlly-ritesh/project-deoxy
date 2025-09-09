@@ -14,7 +14,7 @@ A Next.js App Router project focused on accessibility for dyslexic readers:
 - npm or pnpm
 - Chrome or Edge recommended for microphone (Web Speech API)
 - HTTPS or localhost for mic permissions
-
+- hugging face api 
 ## Environment Variables (.env.local)
 Create a `.env.local` file in the project root for local development:
 
