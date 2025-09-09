@@ -27,7 +27,7 @@ HF_CHAT_MODEL=mistralai/Mistral-7B-Instruct-v0.2
 # Optional OpenAI fallback (only used if HF not configured/available)
 OPENAI_API_KEY=sk-xxxx
 \`\`\`
-
+ok
 Notes:
 - Image generation uses Pollinations and does not need any API key.
 - If you do not set HF or OpenAI keys, the chat route may return a friendly demo/diagnostic response and the UI can appear to “think” indefinitely if the provider times out. See Troubleshooting.
