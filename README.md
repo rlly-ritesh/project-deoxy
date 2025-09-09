@@ -8,7 +8,7 @@ A Next.js App Router project focused on accessibility for dyslexic readers:
 - Microphone input (Web Speech API) and text-to-speech with adjustable volume
 - Chat powered by Hugging Face Inference (free tier with token) and optional OpenAI fallback
 - Image generation via Pollinations API (free, no key required). Prompts return a direct image URL.
-
+-----
 ## Requirements
 - Node.js 18+ (LTS recommended)
 - npm or pnpm
